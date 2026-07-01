@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6s0030/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 諸經要略文
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T85/T85n2821.xml
+    old_id: T85n2821
+hash: sha256:d1c44cb5f47f62a88fda1a3456481295a906c169516b6199e3634e471a2fc53f

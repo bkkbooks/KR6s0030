@@ -1,0 +1,42 @@
+canonical_identifier: bkk:krp/KR6s0030/v1
+canonical_location: https://kanripo.org/bkk/KR6s0030/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 諸經要略文
+  identifiers:
+    alt_id:
+    - T85n2821
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T85/T85n2821.xml
+    old_id: T85n2821
+  edition:
+    short: bkk
+editions:
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6s0030_000.yaml, hash: 'sha256:d1c44cb5f47f62a88fda1a3456481295a906c169516b6199e3634e471a2fc53f'}
+  - {seq: 1, filename: KR6s0030_001.yaml, hash: 'sha256:8ceb11c53f35d3de70e0e4d9c946212ededa93cd8293c4595558e2f7124cce69'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6s0030_001.markers.yaml, hash: 'sha256:72f7062e3c93e80d241097dcdd070765ae8a1a7903bb4019c2448cb43c7e3dc6'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6s0030_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 1422
+  label: 諸經要略文
+  type: juan
+  level: 1
+hash: sha256:d8576990f4ea3678ea716c307aa10e0c9c26213568ea1bb062e4711ba7a6e279
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
